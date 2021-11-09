@@ -1,5 +1,4 @@
 Feature: leads deletelead
-@regression
 Scenario: delete lead
 When click find lead
 When click phone
